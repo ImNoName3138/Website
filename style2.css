@@ -1,0 +1,17 @@
+.navbar{
+  background-color: black;
+
+}
+.background {
+  background-color: black;
+}
+.card text-center {
+  background-color: black;
+}
+.btn{
+  border-color: white;
+  color: white;}
+.btn:hover{
+  background-color: white;
+  color: black;
+}

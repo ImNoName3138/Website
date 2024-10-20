@@ -1,0 +1,17 @@
+.navbar{
+  background-color: black;
+
+}
+.background {
+  background-color: black;
+}
+.card text-center {
+  background-color: black;
+}
+.btn{
+  transition-duration: 0.4s
+}
+.btn:hover{
+  background-color: white;
+  color: black;
+}
